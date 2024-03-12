@@ -1,0 +1,13 @@
+{
+    "name": "project-tkweb",
+    "version": "1.0.0",
+    "description": "Mô tả dự án:\r Ngôn ngữ: HTML5, SCSS, JS\r Web gồm 5 page:",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "sass": "sass scss:assets/css -w"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}

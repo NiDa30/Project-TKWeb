@@ -7,13 +7,12 @@ Web gồm 5 page:
 ### 13/3 - 30/3:
 
 -   Home page - Hà
--   Chi tiết sản phẩm - Điền
+-   Chi tiết sản phẩm, page hiển thị giỏ hàng - Điền
 -   Liệt kê sản phẩm - Hiếu
 
 ### 1/4 - 15/4:
 
--   Page hiển thị giỏ hàng - Hà
--   Giới thiệu sinh viên, dự án - Điền
+-   Giới thiệu sinh viên, dự án - Hà
 -   Form - Hiếu
 
 Link web cần clone: https://kfcvietnam.com.vn/menu/hot-deal
